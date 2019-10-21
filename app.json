@@ -1,0 +1,11 @@
+{
+  "name": "postscrapper",
+  "description": "Get recent 10 post of any fb page",
+  "keyword": [
+    "slack",
+    "python",
+    "web",
+    "postscrapper"
+  ],
+  "repository": "https://github.com/ankit96/postscrapper"
+}
